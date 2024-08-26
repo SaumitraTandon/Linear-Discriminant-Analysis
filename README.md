@@ -1,6 +1,6 @@
-# Linear Discriminant Analysis (LDA) in Python
+# Linear Discriminant Analysis (LDA) in Python & R
 
-This project demonstrates the implementation of Linear Discriminant Analysis (LDA) using Python. LDA is a powerful technique used for dimensionality reduction while preserving as much class discriminatory information as possible. This project includes both theoretical explanations and practical implementation.
+This project demonstrates the implementation of Linear Discriminant Analysis (LDA) using Python & R. LDA is a powerful technique used for dimensionality reduction while preserving as much class discriminatory information as possible. This project includes both theoretical explanations and practical implementation.
 
 ## Project Overview
 
